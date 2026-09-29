@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Breaking Bad",
+    "descripcion": "Un profesor de química descubre un camino peligroso para asegurar el futuro de su familia.",
+    "categoria": "Drama",
+    "temporadas": "5 temporadas"
+  },
+  {
+    "titulo": "The Office",
+    "descripcion": "El día a día de una oficina contado como si fuera un documental, con mucho humor incómodo.",
+    "categoria": "Comedia",
+    "temporadas": "9 temporadas"
+  },
+  {
+    "titulo": "Dark",
+    "descripcion": "Cuatro familias de un pueblo alemán quedan atrapadas en un misterio que cruza distintas épocas.",
+    "categoria": "Ciencia ficción",
+    "temporadas": "3 temporadas"
+  }
+]

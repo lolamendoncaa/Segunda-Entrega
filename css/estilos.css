@@ -1,0 +1,99 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: #f9ebff;
+  color:#2b1a12;
+  padding: 1rem;
+}
+
+body.cine {
+  background-color: #0d0d0d;
+  color: #f5f0e6;
+}
+
+header {
+  background-color: #8866b3;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #ffffff;
+  padding: 2rem;
+  border-bottom: 4px solid #33094b;
+}
+
+header h1 {
+  font-size: 2rem;
+}
+
+.parte-de-botones {
+  background-color:#d0c6d8;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  border: 1px solid #f6eeee;
+  border-radius: 6px;
+  background-color: #8866b3;
+  color: #ffffff;
+  font-weight: bold;
+  height: 2.5rem;
+}
+
+.card {
+  width: 280px;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1px solid #d9c6ea;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+body.cine .parte-de-botones {
+     background-color: #2b2b2b;
+}
+
+
+body.cine .card {
+  background-color: #2b2b2b;
+  border-color: #444;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+body.cine .card .categoria {
+  color: #c48dee;
+}
+
+
+.card h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.card p {
+  font-size: 0.9em;
+  margin-bottom: 0.5rem;
+}
+
+.card .categoria {
+  font-style: italic;
+  font-weight: bold;
+  color: #b156e9;
+}
+
+.parte-de-botones h2 {
+  margin-bottom: 0.5em;
+}
